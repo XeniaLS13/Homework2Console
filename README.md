@@ -10,7 +10,7 @@
 
 918 -> 1
 
-[Блок-схема](https://github.com/XeniaLS13/Homework2Console/blob/main/Task1/diagram1.drawio.png) | [КОД](https://github.com/XeniaLS13/Homework2Console/blob/main/Task1/Program.cs)
+![Блок-схема](https://github.com/XeniaLS13/Homework2Console/blob/main/Task1/diagram1.drawio.png) | [КОД](https://github.com/XeniaLS13/Homework2Console/blob/main/Task1/Program.cs)
 
 ## Задание 2:
 
@@ -22,7 +22,7 @@
 
 32679 -> 6
 
-[Блок-схема](https://github.com/XeniaLS13/Homework2Console/blob/main/Task2/diagram2.drawio.png) | [КОД](https://github.com/XeniaLS13/Homework2Console/blob/main/Task2/Program.cs)
+![Блок-схема](https://github.com/XeniaLS13/Homework2Console/blob/main/Task2/diagram2.drawio.png) | [КОД](https://github.com/XeniaLS13/Homework2Console/blob/main/Task2/Program.cs)
 
 ## Задание 3
 
